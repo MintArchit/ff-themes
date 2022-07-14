@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "ff-theme",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-033-cf10aca0d9374ba108ef8e68a5f5e931.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(17, 14, 21, 0.86)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(220, 203, 216)",
+      "tab_background_text": "rgb(0, 0, 0)",
+      "toolbar_field": "rgba(77, 77, 77, 0.21)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(255, 255, 255)",
+      "popup": "rgb(234, 235, 246)",
+      "popup_text": "rgb(153, 51, 255)",
+      "tab_loading": "rgb(255, 255, 255)"
+    }
+  }
+}

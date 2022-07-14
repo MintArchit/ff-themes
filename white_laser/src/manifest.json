@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "white laser",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "img/outfile.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center center"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(40, 40, 40, 0.7)",
+      "toolbar_text": "rgb(143, 143, 143)",
+      "frame": "rgb(32, 52, 60)",
+      "tab_background_text": "rgb(140, 140, 140)",
+      "toolbar_field": "rgba(0, 0, 0, 0)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(35, 205, 179)",
+      "popup": "rgb(27, 40, 45)",
+      "popup_text": "rgb(140, 140, 140)",
+      "toolbar_field_focus": "rgba(57, 57, 57, 0)",
+      "tab_loading": "rgb(35, 205, 179)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "addon@example.com",
+      "strict_min_version": "42.0"
+    }
+}
+
+}

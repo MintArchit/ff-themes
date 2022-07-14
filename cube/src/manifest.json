@@ -1,0 +1,41 @@
+{
+  "manifest_version": 2,
+  "version": "1.2.1",
+  "name": "cube",
+  "theme":
+  {
+    "images": {
+      "additional_backgrounds": [
+        "img/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right center"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(91, 92, 93, 0.43)",
+      "toolbar_text": "rgb(143, 143, 143)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(140, 140, 140)",
+      "toolbar_field": "rgba(255, 255, 255, 0.06)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(35, 205, 179)",
+      "popup": "rgb(27, 40, 45)",
+      "popup_text": "rgb(140, 140, 140)",
+      "toolbar_field_focus": "rgba(57, 57, 57, 0)",
+      "tab_loading": "rgb(35, 205, 179)"
+    }
+  },
+  "browser_specific_settings":
+  {
+    "gecko": {
+      "id": "cube@sunshine.com",
+      "strict_min_version": "42.0"
+    }
+  }
+}

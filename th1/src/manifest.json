@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "monkey1",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(27, 40, 45, 0.7)",
+      "toolbar_text": "rgb(143, 143, 143)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(140, 140, 140)",
+      "toolbar_field": "rgba(0, 0, 0, 0)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(35, 205, 179)",
+      "popup": "rgb(27, 40, 45)",
+      "popup_text": "rgb(140, 140, 140)",
+      "tab_loading": "rgb(35, 205, 179)"
+    }
+  }
+}
