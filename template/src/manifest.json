@@ -1,0 +1,73 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "template theme",
+  "theme":
+  {
+    "images": {
+      "theme_frame": "",
+      "additional_backgrounds": [
+        "img/0.png",
+        "img/1.png"
+      ]
+    },
+    "colors": {
+      "bookmark_text": "rgb(255, 255, 255)",
+      "button_background_active": "rgba(255,255,255,0.7)",
+      "button_background_hover": "rgba(175, 235, 209, 0.7)",
+      "icons": "rgba(255, 255, 255, 1)",
+      "icons_attention": "rgba(175, 235, 209, 0.7)",
+      "frame": "rgb(8, 11, 33)",
+      "frame_inactive": "rgb(8, 11, 33)",
+      "ntp_background": "rgb(35, 36, 47)",
+      "ntp_text": "rgb(255, 255, 255)",
+      "popup": "rgba(194, 194, 198, 0.89)",
+      "popup_border": "rgba(200, 21, 21, 0.38)",
+      "popup_highlight": "rgb(5, 5, 5)",
+      "popup_highlight_text": "rgb(5, 5, 5)",
+      "popup_text": "rgb(5, 5, 5)",
+      "sidebar": "rgb(5, 5, 5)",
+      "sidebar_border": "rgb(5, 5, 5)",
+      "sidebar_highlight": "rgb(5, 5, 5)",
+      "sidebar_highlight_text": "rgb(5, 5, 5)",
+      "sidebar_text": "rgb(5, 5, 5)",
+      "tab_background_text": "rgb(215, 226, 239)",
+      "tab_line": "rgb(205, 35, 185)",
+      "tab_loading": "rgb(205, 35, 185)",
+      "tab_selected": "rgb(205, 35, 185)",
+      "tab_text": "rgb(205, 35, 185)",
+      "toolbar": "rgba(31, 34, 61, 0)",
+      "toolbar_bottom_separator": "rgba(31, 34, 61, 0)",
+      "toolbar_field": "rgba(0, 0, 0, 0.3)",
+      "toolbar_field_border": "rgba(0, 0, 0, 0.3)",
+      "toolbar_field_border_focus": "rgba(0, 0, 0, 0.3)",
+      "toolbar_field_focus": "rgba(0, 0, 0, 0.3)",
+      "toolbar_field_highlight": "rgba(0, 0, 0, 0.3)",
+      "toolbar_field_highlight_text": "rgba(0, 0, 0, 0.3)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "toolbar_field_text_focus": "rgb(255, 255, 255)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "toolbar_top_separator": "rgb(255, 255, 255)",
+      "toolbar_vertical_separator": "rgb(255, 255, 255)",
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right center",
+        "center center"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat",
+        "repeat"
+      ],
+      "color_scheme": "dark",
+      "content_color_scheme": "dark",
+    },
+  },
+  "browser_specific_settings":
+  {
+    "gecko": {
+      "id": "triangle_cube@mintarchit.com",
+      "strict_min_version": "65.0"
+    }
+  }
+}

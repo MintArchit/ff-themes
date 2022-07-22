@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.5",
+  "version": "1.6",
   "name": "triangle_cube",
   "theme":
   {
@@ -18,19 +18,21 @@
       "additional_backgrounds_tiling": [
         "no-repeat",
         "repeat"
-      ]
+      ],
+      "color_scheme": "dark",
+      "content_color_scheme": "dark",
     },
     "colors": {
-      "toolbar": "rgba(31, 34, 61, 0)",
-      "toolbar_text": "rgb(255, 255, 255)",
       "frame": "rgb(8, 11, 33)",
       "tab_background_text": "rgb(215, 226, 239)",
+      "tab_line": "rgb(205, 35, 185)",
+      "tab_loading": "rgb(205, 35, 185)",
+      "toolbar": "rgba(31, 34, 61, 0)",
+      "toolbar_text": "rgb(255, 255, 255)",
       "toolbar_field": "rgba(0, 0, 0, 0.3)",
       "toolbar_field_text": "rgb(255, 255, 255)",
-      "tab_line": "rgb(205, 35, 185)",
       "popup": "rgb(31, 34, 61)",
       "popup_text": "rgb(215, 226, 239)",
-      "tab_loading": "rgb(205, 35, 185)"
     }
   },
   "browser_specific_settings":
