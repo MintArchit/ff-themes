@@ -1,10 +1,11 @@
 {
-  "name": "template theme",
-  "version": "0.2.00",
+  "name": " Dark Template",
+  "version": "0.2.02",
   "manifest_version": 2,
   "theme":
   {
     "images": {
+      "theme_frame": "img/bg-037.svg",
       "additional_backgrounds": [
         "img/0.png"
       ]
