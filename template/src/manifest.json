@@ -1,14 +1,13 @@
 {
-  "manifest_version": 2,
-  "version": "1.0",
   "name": "template theme",
+  "version": "0.2.00",
+  "manifest_version": 2,
   "theme":
   {
     "images": {
-      "theme_frame": "img/bg-037.png",
       "additional_backgrounds": [
-        "img/0.png",
-      ],
+        "img/0.png"
+      ]
     },
     "colors": {
       "bookmark_text": "rgb(255, 255, 255)",
@@ -47,7 +46,7 @@
       "toolbar_field_text_focus": "rgb(255, 255, 255)",
       "toolbar_text": "rgb(255, 255, 255)",
       "toolbar_top_separator": "rgb(255, 255, 255)",
-      "toolbar_vertical_separator": "rgb(255, 255, 255)",
+      "toolbar_vertical_separator": "rgb(255, 255, 255)"
     },
     "properties": {
       "additional_backgrounds_alignment": [
@@ -59,8 +58,8 @@
         "repeat"
       ],
       "color_scheme": "dark",
-      "content_color_scheme": "dark",
-    },
+      "content_color_scheme": "dark"
+    }
   },
   "browser_specific_settings":
   {
