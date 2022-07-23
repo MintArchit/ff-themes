@@ -5,11 +5,10 @@
   "theme":
   {
     "images": {
-      "theme_frame": "",
+      "theme_frame": "img/bg-037.png",
       "additional_backgrounds": [
         "img/0.png",
-        "img/1.png"
-      ]
+      ],
     },
     "colors": {
       "bookmark_text": "rgb(255, 255, 255)",
@@ -66,7 +65,7 @@
   "browser_specific_settings":
   {
     "gecko": {
-      "id": "triangle_cube@mintarchit.com",
+      "id": "template@mintarchit.com",
       "strict_min_version": "65.0"
     }
   }
