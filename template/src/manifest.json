@@ -1,9 +1,20 @@
 {
-  "name": " Dark Template",
-  "version": "0.2.04",
-  "manifest_version": 2,
-  "theme":
-  {
+  // keep name short, max 45 chars
+  "name": "Theme Template Dark",
+  // short_name max 12 chars
+  "short_name": "tpl-dark",
+  "version": "0.2.10",
+  //"author": "MintArchit",
+  "description": "ff theme template with all color keys used",
+  // specified dev key replaces author key
+  "developer": {
+    "name": "MintArchit",
+    "url": "https://mintarchit.com"
+  },
+  "icons": {
+    "32": "img/icon32.svg"
+  },
+  "theme":{
     "images": {
       "theme_frame": "img/bg-037.svg",
       "additional_backgrounds": [
@@ -62,11 +73,12 @@
       "content_color_scheme": "dark"
     }
   },
-  "browser_specific_settings":
-  {
+  "browser_specific_settings":{
     "gecko": {
       "id": "template@mintarchit.com",
       "strict_min_version": "65.0"
     }
-  }
+  },
+  // currently must be 2
+  "manifest_version": 2
 }
