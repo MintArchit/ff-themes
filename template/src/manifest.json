@@ -3,9 +3,9 @@
   "name": "Theme Template Dark",
   // short_name max 12 chars
   "short_name": "tpl-dark",
-  "version": "0.2.12",
+  "version": "0.3.00",
   //"author": "MintArchit",
-  "description": "ff theme template with all color keys used",
+  "description": "A ff theme template with all color keys used",
   // specified dev key replaces author key
   "developer": {
     "name": "MintArchit",
@@ -16,58 +16,59 @@
   },
   "theme":{
     "images": {
-      "theme_frame": "img/bg-037.svg",
+      //"theme_frame": "",
       "additional_backgrounds": [
+        "img/bg-037.svg",
         "img/0.png"
       ]
     },
     "colors": {
-      "bookmark_text": "rgb(255, 255, 255.07)",
+      "bookmark_text": "rgb(255, 255, 255)",
       "button_background_active": "rgba(74, 74, 74, 0.7)",
       "button_background_hover": "rgba(225, 226, 225, 0.7)",
       "icons": "rgb(226, 226, 226)",
       "icons_attention": "rgb(164, 164, 164)",
-      "frame": "rgb(33, 33, 33)",
-      "frame_inactive": "rgb(20, 20, 20)",
+      "frame": "rgba(56, 56, 56, 0.3)",
+      "frame_inactive": "rgba(0, 0, 0, 0.5)",
       "ntp_background": "rgb(66, 66, 66)",
       "ntp_text": "rgb(255, 255, 255)",
-      "popup": "rgba(194, 194, 198, 0.89)",
+      "popup": "rgba(23, 23, 23, 0.7)",
       "popup_border": "rgb(0, 0, 0)",
       "popup_highlight": "rgb(5, 5, 5)",
       "popup_highlight_text": "rgb(255, 255, 255)",
-      "popup_text": "rgb(5, 5, 5)",
-      "sidebar": "rgb(5, 5, 5)",
+      "popup_text": "rgb(255, 255, 255)",
+      "sidebar": "rgba(255, 255, 255, 0.7)",
       "sidebar_border": "rgb(5, 5, 5)",
-      "sidebar_highlight": "rgb(5, 5, 5)",
-      "sidebar_highlight_text": "rgb(5, 5, 5)",
-      "sidebar_text": "rgb(5, 5, 5)",
+      "sidebar_highlight": "rgb(19, 19, 19)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
+      "sidebar_text": "rgb(0, 0, 0)",
       "tab_background_text": "rgb(193, 193, 193)",
-      "tab_line": "rgb(214, 213, 214)",
+      "tab_line": "rgb(255, 255, 255)",
       "tab_loading": "rgb(255, 255, 255)",
-      "tab_selected": "rgba(255, 255, 255, 0.7)",
+      "tab_selected": "rgba(255, 255, 255, 1)",
       "tab_text": "rgb(0, 0, 0)",
       "toolbar": "rgba(31, 34, 61, 0)",
-      "toolbar_bottom_separator": "rgba(31, 34, 61, 0)",
-      "toolbar_field": "rgba(255, 255, 255, 0.56)",
+      "toolbar_bottom_separator": "rgba(255, 255, 255, 0.3)",
+      "toolbar_field": "rgba(255, 255, 255, 1)",
       "toolbar_field_border": "rgba(0, 0, 0, 0.56)",
       "toolbar_field_border_focus": "rgba(255, 255, 255, 1)",
-      "toolbar_field_focus": "rgba(0, 0, 0, 0.3)",
-      "toolbar_field_highlight": "rgba(0, 0, 0, 0.3)",
-      "toolbar_field_highlight_text": "rgba(0, 0, 0, 0.3)",
+      "toolbar_field_focus": "rgba(60, 60, 60, 0.31)",
+      "toolbar_field_highlight": "rgb(0, 0, 0)",
+      "toolbar_field_highlight_text": "rgb(255, 255, 255)",
       "toolbar_field_text": "rgb(0, 0, 0)",
       "toolbar_field_text_focus": "rgb(255, 255, 255)",
-      "toolbar_text": "rgb(0, 0, 0)",
+      "toolbar_text": "rgb(255, 255, 255)",
       "toolbar_top_separator": "rgb(255, 255, 255)",
       "toolbar_vertical_separator": "rgb(255, 255, 255)"
     },
     "properties": {
       "additional_backgrounds_alignment": [
-        "right center",
-        "center center"
+        "center center",
+        "right center"
       ],
       "additional_backgrounds_tiling": [
-        "no-repeat",
-        "repeat"
+        "repeat",
+        "no-repeat"
       ],
       "color_scheme": "dark",
       "content_color_scheme": "dark"
