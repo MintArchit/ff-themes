@@ -3,7 +3,7 @@
   "name": "Theme Template Dark",
   // short_name max 12 chars
   "short_name": "tpl-dark",
-  "version": "0.2.10",
+  "version": "0.2.12",
   //"author": "MintArchit",
   "description": "ff theme template with all color keys used",
   // specified dev key replaces author key
