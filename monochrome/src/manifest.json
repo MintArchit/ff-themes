@@ -1,11 +1,11 @@
 {
   // keep name short, max 45 chars
-  "name": "Theme Template Dark",
+  "name": "Monochrome Dark",
   // short_name max 12 chars
-  "short_name": "tpl-dark",
-  "version": "0.3.00",
+  "short_name": "monochrome",
+  "version": "0.3.05",
   //"author": "MintArchit",
-  "description": "A ff theme template with all color keys used",
+  "description": "A grayscale ff theme with all color keys used",
   // specified dev key replaces author key
   "developer": {
     "name": "MintArchit",
@@ -37,15 +37,15 @@
       "popup_highlight": "rgb(5, 5, 5)",
       "popup_highlight_text": "rgb(255, 255, 255)",
       "popup_text": "rgb(255, 255, 255)",
-      "sidebar": "rgba(255, 255, 255, 0.7)",
+      "sidebar": "rgba(75, 75, 75, 1)",
       "sidebar_border": "rgb(5, 5, 5)",
-      "sidebar_highlight": "rgb(19, 19, 19)",
-      "sidebar_highlight_text": "rgb(255, 255, 255)",
-      "sidebar_text": "rgb(0, 0, 0)",
+      "sidebar_highlight": "rgb(231, 231, 231)",
+      "sidebar_highlight_text": "rgb(0, 0, 0)",
+      "sidebar_text": "rgb(255, 255, 255)",
       "tab_background_text": "rgb(193, 193, 193)",
       "tab_line": "rgb(255, 255, 255)",
-      "tab_loading": "rgb(255, 255, 255)",
-      "tab_selected": "rgba(255, 255, 255, 1)",
+      "tab_loading": "rgb(138, 138, 138)",
+      "tab_selected": "rgba(233, 233, 233, 1)",
       "tab_text": "rgb(0, 0, 0)",
       "toolbar": "rgba(31, 34, 61, 0)",
       "toolbar_bottom_separator": "rgba(255, 255, 255, 0.3)",
