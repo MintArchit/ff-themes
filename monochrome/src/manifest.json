@@ -3,7 +3,7 @@
   "name": "Monochrome Dark",
   // short_name max 12 chars
   "short_name": "monochrome",
-  "version": "0.3.05",
+  "version": "3.06",
   //"author": "MintArchit",
   "description": "A grayscale ff theme with all color keys used",
   // specified dev key replaces author key
