@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
+  "name": "GarageLab Dark",
+  "short_name": "gl-dark"
   "version": "2.5",
-  "name": "gl-dark",
   "theme": {
     "images": {
       "additional_backgrounds": [
@@ -49,11 +49,11 @@
       "toolbar_top_separator": "rgba(217, 16, 16, 0)"
     }
   },
-  "browser_specific_settings":
-  {
+  "browser_specific_settings":{
     "gecko": {
       "id": "gl-dark@mintarchit.com",
       "strict_min_version": "42.0"
     }
-  }
+  },
+  "manifest_version": 2
 }
