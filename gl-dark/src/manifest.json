@@ -1,7 +1,7 @@
 {
   "name": "GarageLab Dark",
   "short_name": "gl-dark",
-  "version": "2.9",
+  "version": "2.10",
   "description": "Dark Theme based on icon color scheme",
   "developer": {
     "name": "MintArchit",
@@ -59,7 +59,7 @@
   "browser_specific_settings":{
     "gecko": {
       "id": "gl-dark@mintarchit.com",
-      "strict_min_version": "42.0"
+      "strict_min_version": "67.0"
     }
   },
   "manifest_version": 2
