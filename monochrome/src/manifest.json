@@ -2,9 +2,7 @@
   "name": "Monochrome Dark",  // max 45 chars
   "short_name": "monochrome", // max 12 chars
   "version": "3.9",
-  "description": {
-    "A grayscale ff theme with all color keys used"
-  },
+  "description": "A grayscale ff theme with all color keys used",
   "developer": {
     "name": "MintArchit",   // specified dev key replaces author key
     "url": "https://mintarchit.com"
