@@ -1,7 +1,7 @@
 {
   "name": "GarageLab Dark",
   "short_name": "gl-dark",
-  "version": "2.10",
+  "version": "2.11",
   "description": "Dark Theme based on icon color scheme",
   "developer": {
     "name": "MintArchit",
@@ -20,7 +20,7 @@
     "properties": {
       "additional_backgrounds_alignment": [
         "top",
-        "left center"
+        "right center"
       ],
       "additional_backgrounds_tiling": [
         "repeat",
