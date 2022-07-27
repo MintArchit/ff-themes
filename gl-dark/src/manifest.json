@@ -1,12 +1,22 @@
 {
   "name": "GarageLab Dark",
-  "short_name": "gl-dark"
-  "version": "2.5",
+  "short_name": "gl-dark",
+  "version": "2.6",
+  "description": {
+    "Dark Theme based on icon color scheme"
+  },
+  "developer": {
+    "name": "MintArchit",
+    "url": "https://garage-lab.de"
+  },
+  "icons": {
+    "128": "img/icon.svg"
+  },
   "theme": {
     "images": {
       "additional_backgrounds": [
-        "img/bg-037-b73f9b34467ba541de861f5b4c0c6316.svg",
-        "img/gl-lightc350x50.png"
+        "img/bg.svg",
+        "img/gl_350x50.png"
       ]
     },
     "properties": {

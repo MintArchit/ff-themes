@@ -1,20 +1,18 @@
 {
-  // keep name short, max 45 chars
-  "name": "Monochrome Dark",
-  // short_name max 12 chars
-  "short_name": "monochrome",
-  "version": "3.8",
-  //"author": "MintArchit",
-  "description": "A grayscale ff theme with all color keys used",
-  // specified dev key replaces author key
+  "name": "Monochrome Dark",  // max 45 chars
+  "short_name": "monochrome", // max 12 chars
+  "version": "3.9",
+  "description": {
+    "A grayscale ff theme with all color keys used"
+  },
   "developer": {
-    "name": "MintArchit",
+    "name": "MintArchit",   // specified dev key replaces author key
     "url": "https://mintarchit.com"
   },
   "icons": {
-    "32": "img/icon32.svg"
+    "128": "img/icon.svg"
   },
-  "theme":{
+  "theme": {
     "images": {
       //"theme_frame": "",
       "additional_backgrounds": [
@@ -80,6 +78,6 @@
       "strict_min_version": "100.0"
     }
   },
-  // currently must be 2
-  "manifest_version": 2
+  "manifest_version": 2       // currently must be 2
+  // "author": "MintArchit"
 }
