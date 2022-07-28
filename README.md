@@ -10,4 +10,4 @@ Themes for Firefox(ff)
 ![preview](./gl-dark/preview.png)
 * v     [cube](cube)
 
-[![](https://github.com/MintArchit/ff-themes/blob/assets/theme_preview.png)](https://github.com/MintArchit/ff-themes/tree/master/gl-dark)
+[gl-dark theme preview ![](https://github.com/MintArchit/ff-themes/blob/assets/theme_preview.png)](https://github.com/MintArchit/ff-themes/tree/master/gl-dark)
