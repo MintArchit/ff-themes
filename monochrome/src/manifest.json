@@ -1,7 +1,7 @@
 {
   "name": "Monochrome Dark",  // max 45 chars
   "short_name": "monochrome", // max 12 chars
-  "version": "3.9",
+  "version": "3.11",
   "description": "A grayscale ff theme with all color keys used",
   "developer": {
     "name": "MintArchit",   // specified dev key replaces author key
@@ -34,7 +34,7 @@
       "popup_highlight_text": "rgb(255, 255, 255)",
       "popup_text": "rgb(255, 255, 255)",
       "sidebar": "rgba(75, 75, 75, 1)",
-      "sidebar_border": "rgb(5, 5, 5)",
+      "sidebar_border": "rgb(0, 0, 0)",
       "sidebar_highlight": "rgb(231, 231, 231)",
       "sidebar_highlight_text": "rgb(0, 0, 0)",
       "sidebar_text": "rgb(255, 255, 255)",
@@ -43,7 +43,7 @@
       "tab_loading": "rgb(138, 138, 138)",
       "tab_selected": "rgba(233, 233, 233, 1)",
       "tab_text": "rgb(0, 0, 0)",
-      "toolbar": "rgba(31, 34, 61, 0)",
+      "toolbar": "rgba(131, 131, 131, 0.3)",
       "toolbar_bottom_separator": "rgba(255, 255, 255, 0.3)",
       "toolbar_field": "rgba(255, 255, 255, 1)",
       "toolbar_field_border": "rgba(0, 0, 0, 0.56)",
@@ -54,7 +54,7 @@
       "toolbar_field_text": "rgb(0, 0, 0)",
       "toolbar_field_text_focus": "rgb(255, 255, 255)",
       "toolbar_text": "rgb(255, 255, 255)",
-      "toolbar_top_separator": "rgb(255, 255, 255)",
+      "toolbar_top_separator": "rgba(255, 255, 255, 0)",
       "toolbar_vertical_separator": "rgb(255, 255, 255)"
     },
     "properties": {
