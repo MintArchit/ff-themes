@@ -15,7 +15,7 @@ Mostly Dark Themes for Firefox(ff) written in JSON with AnimatedPNG
 
 * #### v1.08 [ColorCube](color_cube)*
 
-*unsigned releases, can be only installed with firefox dev
+*unsigned releases, can only be installed with firefox dev
 
 ## Defaults
 
