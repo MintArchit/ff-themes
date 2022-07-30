@@ -14,5 +14,5 @@ Themes for Firefox(ff)
 * #### Dark
 [![dark theme preview](https://github.com/MintArchit/ff-themes/blob/assets/ff_dark_preview.png)]()
 
-* #### Dark
+* #### Light
 [![light theme preview](https://github.com/MintArchit/ff-themes/blob/assets/ff_light_preview.png)]()
