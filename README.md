@@ -1,5 +1,5 @@
 # **Firefox** Themes
-Themes for Firefox(ff)
+Mostly Dark Themes for Firefox(ff) written in JSON with AnimatedPNG
 
 ## Custom (Dark with Animations)
 
@@ -8,6 +8,14 @@ Themes for Firefox(ff)
 
 * #### v2.14 [Garagelab](gl-dark)
 [![gl-dark theme preview](https://github.com/MintArchit/ff-themes/blob/assets/ff_gl-dark_preview.png)](https://github.com/MintArchit/ff-themes/tree/master/gl-dark)
+
+* #### v1.05 [TriangleCube](triangle_cube)
+
+* #### v1.00 [Lasergrid](lasergrid)*
+
+* #### v1.08 [ColorCube](color_cube)*
+
+*unsigned releases, can be only installed with firefox dev
 
 ## Defaults
 
